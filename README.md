@@ -32,10 +32,10 @@ Necesitas:
 - [Git](https://git-scm.com/).
 - [Npm](https://www.npmjs.com/).
 
-1. [Fork](https://github.com/JuanCam1/template-electron.git) de este repositorio ó clonarlo localmente:
+1. [Fork](https://github.com/JuanCam1/Music-Desktop.git) de este repositorio ó clonarlo localmente:
 
 ```bash
-git clone https://github.com/JuanCam1/template-electron.git
+git clone https://github.com/JuanCam1/Music-Desktop.git
 ```
 
 2. Instala las dependencias:
